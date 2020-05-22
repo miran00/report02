@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
-public class year {
+public class 201970587êµ¬ë¯¸ë€_leap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner Scan = new Scanner(System.in);
-		System.out.println("³âµµ ÀÔ·Â: ");
+		System.out.println("ë…„ë„ ì…ë ¥: ");
 		
 		int y = Scan.nextInt();
 		
 		if((y%4==0 && y%100!=0)||(y%400==0)) {
-			System.out.println("À±³âÀÔ´Ï´Ù");
+			System.out.println("ìœ¤ë…„ì…ë‹ˆë‹¤");
 		}
 		else {
-			System.out.println("Æò³âÀÔ´Ï´Ù");
+			System.out.println("í‰ë…„ì…ë‹ˆë‹¤");
 		}
 	}
 
