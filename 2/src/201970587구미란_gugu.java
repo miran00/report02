@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 201970587_구미란 gugu {
+public class 201970587구미란_gugu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
