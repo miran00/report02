@@ -8,7 +8,7 @@ public class gugu {
 		
 		int input =1;
 		
-		System.out.println("¸î´ÜÀ» Ãâ·ÂÇÒ±î¿ä? : ");
+		System.out.println("Â¸Ã®Â´ÃœÃ€Â» ÃƒÃ¢Â·Ã‚Ã‡Ã’Â±Ã®Â¿Ã¤? : ");
 		int dan = Scan.nextInt();
 		
 		for(int i=1; i<10; i++) {
